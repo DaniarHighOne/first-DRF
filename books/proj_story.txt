@@ -1,0 +1,9 @@
+here we gonna check the differnece between DRf and simple django
+
+username: uson
+password:123
+
+simple create a new model for bookstore and add some qualities
+
+next we add new app called api, same action but views are lil bit differ
+we add class called serializers which transfer data to json readable format
